@@ -1,0 +1,183 @@
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Api.exe
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Api.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Polly.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Polly.Extensions.Http.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\Api.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\justi\RiderProjects\returnmanagement\src\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Api.exe
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Polly.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Polly.Extensions.Http.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\src\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Api.exe
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Polly.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Polly.Extensions.Http.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\Monolith Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Api.exe
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Dapr.Client.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Polly.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Polly.Extensions.Http.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Uni\Abschlussarbeit\DAPR Microservices\microservices\returnmanagement\Api\obj\Debug\net8.0\ref\Api.dll

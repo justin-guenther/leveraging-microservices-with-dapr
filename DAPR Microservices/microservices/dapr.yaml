@@ -1,0 +1,41 @@
+version: 1
+common: # optional section for variables shared across apps
+  resourcesPath: ./components # any dapr resources to be shared across apps
+  env:  # any environment variable shared across apps
+    DEBUG: true
+apps:
+  - appID: productcatalog
+    appDirPath: ./productcatalog/
+    appProtocol: http
+    appPort: 3000
+    appHealthCheckPath: "/health"
+    daprHTTPPort: 3500
+    command: [ "npm", "run", "start" ]
+  - appID: shoppingcart
+    appDirPath: ./shoppingcart/
+    appProtocol: http
+    appPort: 3100
+    appHealthCheckPath: "/health"
+    daprHTTPPort: 3600
+    command: [ "npm", "run", "start" ]
+  - appID: ordermanagement
+    appDirPath: ./ordermanagement/
+    appProtocol: http
+    appPort: 3200
+    appHealthCheckPath: "/health"
+    daprHTTPPort: 3700
+    command: [ "npm", "run", "start" ]
+  - appID: orderapproval
+    appDirPath: ./orderapproval/
+    appProtocol: http
+    appPort: 3300
+    appHealthCheckPath: "/health"
+    daprHTTPPort: 3800
+    command: [ "npm", "run", "start" ]
+  - appID: returnmanagement
+    appDirPath: ./returnmanagement/Api/bin/Debug/net8.0/
+    appProtocol: http
+    appPort: 3400
+    appHealthCheckPath: "/health"
+    daprHTTPPort: 3900
+    command: [ "dotnet", "Api.dll" ]
