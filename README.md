@@ -19,7 +19,7 @@ Jeder Microservice hat seine eigenen REST-API-Endpunkte und wird je nach Setup m
 
 ### Abhängigkeiten:
 - [Node.js](https://nodejs.org/) (Für npm)
-- [DAPR CLI](https://docs.dapr.io/getting-started/install-dapr-cli/)
+- [DAPR CLI](https://docs.dapr.io/getting-started/install-dapr-cli/) (Wichtig für die Verwendung von DAPR-Microservices)
 - [Docker](https://www.docker.com/) (Muss vorher gestartet werden)
 
 ### Repository klonen
